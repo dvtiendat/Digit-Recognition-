@@ -5,3 +5,5 @@ Simple neural networks to recognise digits (0 - 9) using Tensorflow to recognise
 ![image](https://user-images.githubusercontent.com/111187020/191272722-323f325c-ac00-41d3-a7a4-4cbc5337847c.png)
 
 Accuracy: >= 97%. 
+
+To use, upload digit image in png and name the file (1-9) respectively.
